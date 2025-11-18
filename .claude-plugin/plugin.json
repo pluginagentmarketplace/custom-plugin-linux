@@ -1,0 +1,57 @@
+{
+  "id": "developer-roadmap-complete",
+  "name": "Developer Roadmap Complete - 77+ Specializations",
+  "version": "1.0.0",
+  "description": "Ultimate learning plugin with 77+ developer specializations from the official Developer Roadmap. Master any role with 7 specialized agents, 35+ skills, and interactive guidance.",
+  "author": "Developer Roadmap Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pluginagentmarketplace/custom-plugin-linux.git"
+  },
+  "keywords": ["developer", "roadmap", "learning", "career", "specialization", "77-roles", "skills", "training"],
+  "agents": [
+    {"name": "core-development", "path": "agents/01-core-development.md", "description": "Frontend, Backend, Full Stack - core web development paths"},
+    {"name": "languages-frameworks", "path": "agents/02-languages-frameworks.md", "description": "10+ programming languages and web frameworks"},
+    {"name": "mobile-development", "path": "agents/03-mobile-development.md", "description": "Android, iOS, React Native, Flutter, and cross-platform development"},
+    {"name": "data-ai-systems", "path": "agents/04-data-ai-systems.md", "description": "AI Engineer, Data Scientist, ML Engineer, Data Engineer, MLOps"},
+    {"name": "devops-infrastructure", "path": "agents/05-devops-infrastructure.md", "description": "DevOps, Docker, Kubernetes, Cloud platforms, Infrastructure-as-Code"},
+    {"name": "architecture-security", "path": "agents/06-architecture-security.md", "description": "System Design, API Design, Software Architecture, Cyber Security"},
+    {"name": "specialized-leadership", "path": "agents/07-specialized-leadership.md", "description": "Product Manager, Engineering Manager, Tech Writer, Blockchain, Game Dev, UX Design"}
+  ],
+  "commands": [
+    {"name": "roadmap", "path": "commands/roadmap.md", "description": "Find any of 77+ specializations"},
+    {"name": "learn", "path": "commands/learn.md", "description": "Create personalized learning path"},
+    {"name": "compare", "path": "commands/compare.md", "description": "Compare specializations"},
+    {"name": "progress", "path": "commands/progress.md", "description": "Track learning journey"},
+    {"name": "resources", "path": "commands/resources.md", "description": "Find curated learning materials"}
+  ],
+  "skills": [
+    {"name": "web-fundamentals", "path": "skills/development/web-SKILL.md"},
+    {"name": "frontend-frameworks", "path": "skills/development/frontend-SKILL.md"},
+    {"name": "backend-development", "path": "skills/development/backend-SKILL.md"},
+    {"name": "javascript-typescript", "path": "skills/languages/js-SKILL.md"},
+    {"name": "python-golang", "path": "skills/languages/python-SKILL.md"},
+    {"name": "java-kotlin", "path": "skills/languages/java-SKILL.md"},
+    {"name": "rust-cpp", "path": "skills/languages/rust-SKILL.md"},
+    {"name": "mobile-ios-android", "path": "skills/development/mobile-SKILL.md"},
+    {"name": "machine-learning", "path": "skills/data-ai/ml-SKILL.md"},
+    {"name": "ai-llms-agents", "path": "skills/data-ai/ai-SKILL.md"},
+    {"name": "data-science-analytics", "path": "skills/data-ai/data-SKILL.md"},
+    {"name": "docker-containers", "path": "skills/devops/docker-SKILL.md"},
+    {"name": "kubernetes-orchestration", "path": "skills/devops/kubernetes-SKILL.md"},
+    {"name": "cloud-platforms", "path": "skills/devops/cloud-SKILL.md"},
+    {"name": "terraform-iac", "path": "skills/devops/terraform-SKILL.md"},
+    {"name": "system-design", "path": "skills/architecture/system-design-SKILL.md"},
+    {"name": "api-design", "path": "skills/architecture/api-SKILL.md"},
+    {"name": "software-architecture", "path": "skills/architecture/architecture-SKILL.md"},
+    {"name": "cybersecurity", "path": "skills/architecture/security-SKILL.md"},
+    {"name": "product-management", "path": "skills/management/pm-SKILL.md"},
+    {"name": "engineering-leadership", "path": "skills/management/leadership-SKILL.md"},
+    {"name": "blockchain-web3", "path": "skills/specialized/blockchain-SKILL.md"},
+    {"name": "game-development", "path": "skills/specialized/gamedev-SKILL.md"},
+    {"name": "ux-design", "path": "skills/specialized/ux-SKILL.md"}
+  ],
+  "hooks": {"path": "hooks/hooks.json"},
+  "settings": {"minClaudeVersion": "1.0.0", "maxContextLength": 200000}
+}

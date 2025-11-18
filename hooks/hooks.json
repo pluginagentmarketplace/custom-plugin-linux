@@ -1,0 +1,10 @@
+{
+  "hooks": [
+    {"id": "command-tracking", "name": "Command Usage Tracking", "enabled": true},
+    {"id": "skill-access", "name": "Skill Access Logging", "enabled": true},
+    {"id": "agent-invocation", "name": "Agent Invocation Tracking", "enabled": true},
+    {"id": "progress-tracking", "name": "Progress Tracking", "enabled": true},
+    {"id": "error-reporting", "name": "Error Detection", "enabled": true},
+    {"id": "performance-monitoring", "name": "Performance Monitoring", "enabled": true}
+  ]
+}
