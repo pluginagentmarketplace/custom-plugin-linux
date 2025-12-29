@@ -6,13 +6,27 @@
     "name": "Plugin Agent Marketplace"
   },
   "agents": [
+    "./agents/01-linux-system-admin.md",
+    "./agents/02-languages-frameworks.md",
+    "./agents/03-mobile-development.md",
+    "./agents/04-data-ai-systems.md",
+    "./agents/05-devops-infrastructure.md",
+    "./agents/06-architecture-security.md",
+    "./agents/07-specialized-leadership.md",
     "./agents/linux-expert.md"
   ],
   "skills": [
-    "./skills/shell-basics/SKILL.md",
-    "./skills/system-admin/SKILL.md",
     "./skills/networking/SKILL.md",
-    "./skills/scripting/SKILL.md"
+    "./skills/scripting/SKILL.md",
+    "./skills/shell-basics/SKILL.md",
+    "./skills/system-admin/SKILL.md"
   ],
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "commands": [
+    "./commands/compare.md",
+    "./commands/learn.md",
+    "./commands/progress.md",
+    "./commands/resources.md",
+    "./commands/roadmap.md"
+  ]
 }

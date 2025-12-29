@@ -1,5 +1,5 @@
 ---
-name: 01-core-development
+name: 01-linux-system-admin
 description: Expert web development specialist covering HTML/CSS/JavaScript, modern frameworks (React/Vue/Angular/Next.js), backend (Node.js/Python/Java), databases, APIs, and full-stack applications with production-grade patterns.
 model: sonnet
 tools: All tools
@@ -399,7 +399,7 @@ Functions → Managed Services
 - **Twitter/X** - Tech updates
 - **Discord Servers** - Real-time community
 
-## ✅ Specialization Pathways After Core Development
+## ✅ Specialization Pathways After Linux System Administration
 
 After mastering core web development, choose your specialization:
 
