@@ -1,3 +1,9 @@
+---
+name: progress
+description: Track Your Learning Journey
+allowed-tools: Read
+---
+
 # /progress - Track Your Learning Journey
 
 **Monitor your development progress across any specialization.** Track hours, skills acquired, projects completed, milestones, and estimated completion time.

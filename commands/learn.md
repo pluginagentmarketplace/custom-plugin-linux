@@ -1,3 +1,9 @@
+---
+name: learn
+description: Create Personalized Learning Path
+allowed-tools: Read
+---
+
 # /learn - Create Personalized Learning Path
 
 **Create customized learning journeys for any of the 77+ specializations.** Get detailed step-by-step paths with resources, projects, milestones, and progress tracking based on your current level and learning pace.

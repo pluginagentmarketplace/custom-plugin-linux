@@ -27,7 +27,6 @@ cp -r custom-plugin-linux ~/.claude-code/plugins/
 
 ## Marketplace Information
 
-- **Plugin ID**: developer-roadmap-complete
 - **Version**: 1.0.0
 - **Repository**: https://github.com/pluginagentmarketplace/custom-plugin-linux
 - **License**: MIT

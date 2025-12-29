@@ -1,0 +1,15 @@
+{
+  "name": "pluginagentmarketplace-linux",
+  "owner": {
+    "name": "Plugin Agent Marketplace",
+    "email": "pluginagentmarketplace@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "custom-plugin-linux",
+      "source": "./",
+      "description": "Claude Code plugin for linux development",
+      "version": "1.0.0"
+    }
+  ]
+}

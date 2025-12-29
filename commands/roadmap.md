@@ -1,3 +1,9 @@
+---
+name: roadmap
+description: Explore 77+ Developer Specializations
+allowed-tools: Read
+---
+
 # /roadmap - Explore 77+ Developer Specializations
 
 **Complete roadmap explorer for every developer role.** Discover detailed learning paths, required skills, job market insights, and career progression for any of 77+ specializations.

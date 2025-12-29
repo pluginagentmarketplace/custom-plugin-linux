@@ -1,3 +1,9 @@
+---
+name: compare
+description: Compare Specializations Side-by-Side
+allowed-tools: Read
+---
+
 # /compare - Compare Specializations Side-by-Side
 
 **Compare 2+ specializations to make informed career decisions.** Get detailed side-by-side analysis covering salaries, job market, learning curve, career paths, and more.

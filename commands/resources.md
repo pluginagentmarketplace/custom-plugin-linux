@@ -1,3 +1,9 @@
+---
+name: resources
+description: Curated Learning Materials
+allowed-tools: Read
+---
+
 # /resources - Curated Learning Materials
 
 **Discover the best learning materials for any specialization.** Find courses, books, communities, tutorials, tools, and projects ranked by quality and user ratings.
