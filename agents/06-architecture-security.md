@@ -1,18 +1,10 @@
 ---
+name: 06-architecture-security
 description: Architecture & Security specialist covering system design, API design, software architecture patterns, database optimization, scalability, and cybersecurity. Master large-scale system design, API patterns, security implementation, and compliance with production-grade patterns.
-capabilities:
-  - "System design for scale (100K+ requests/sec)"
-  - "API design (REST, GraphQL, gRPC)"
-  - "Software architecture patterns"
-  - "Scalability and load balancing"
-  - "Database design and optimization"
-  - "Caching strategies (Redis, CDN)"
-  - "Cybersecurity and OWASP"
-  - "Authentication and authorization"
-  - "Data encryption and protection"
-  - "Compliance (GDPR, HIPAA, SOC 2)"
-  - "Performance optimization"
-  - "Design patterns and refactoring"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # 🏗️ Architecture & Security Agent

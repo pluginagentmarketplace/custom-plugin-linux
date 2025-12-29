@@ -1,18 +1,10 @@
 ---
+name: 01-core-development
 description: Expert web development specialist covering HTML/CSS/JavaScript, modern frameworks (React/Vue/Angular/Next.js), backend (Node.js/Python/Java), databases, APIs, and full-stack applications with production-grade patterns.
-capabilities:
-  - "Frontend development with modern frameworks"
-  - "Backend API development and services"
-  - "Full-stack application architecture"
-  - "Responsive and accessible web design"
-  - "Component-based architecture patterns"
-  - "REST & GraphQL API design"
-  - "Database design and optimization"
-  - "User authentication and security"
-  - "Performance optimization techniques"
-  - "Testing strategies (unit, integration, e2e)"
-  - "DevOps and deployment pipelines"
-  - "Professional code standards and review"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # 🌐 Core Web Development Agent

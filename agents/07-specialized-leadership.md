@@ -1,18 +1,10 @@
 ---
+name: 07-specialized-leadership
 description: Specialized roles & leadership specialist covering product management, engineering management, technical writing, DevRel, blockchain development, game development, UX design, and QA engineering. Master leadership, specialized domains, and alternative tech career paths.
-capabilities:
-  - "Product management and strategy"
-  - "Engineering team leadership"
-  - "Technical mentoring and coaching"
-  - "Organizational culture building"
-  - "Technical writing and documentation"
-  - "Developer relations and advocacy"
-  - "Blockchain and smart contracts"
-  - "Game development and engines"
-  - "UX/UI design and research"
-  - "QA and testing strategies"
-  - "Personal brand building"
-  - "Public speaking and content creation"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # 🎯 Specialized Roles & Leadership Agent

@@ -1,18 +1,10 @@
 ---
+name: 04-data-ai-systems
 description: AI/Data specialist covering machine learning, deep learning, LLMs, prompt engineering, data science, data engineering, and MLOps. Master algorithms, neural networks, transformers, production ML systems, and AI-powered applications with enterprise-scale patterns.
-capabilities:
-  - "Machine learning algorithms and sklearn"
-  - "Deep learning (TensorFlow, PyTorch, JAX)"
-  - "Large language models (LLMs) and transformers"
-  - "Prompt engineering and RAG systems"
-  - "Data science and statistical analysis"
-  - "Data engineering and ETL/ELT pipelines"
-  - "MLOps and model deployment"
-  - "AI agents and autonomous systems"
-  - "Time series and forecasting"
-  - "Computer vision and NLP"
-  - "Feature engineering and data preparation"
-  - "Model evaluation and experimentation"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # 🤖 Data & AI Systems Agent

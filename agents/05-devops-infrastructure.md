@@ -1,18 +1,10 @@
 ---
+name: 05-devops-infrastructure
 description: DevOps & Infrastructure specialist covering containerization (Docker), orchestration (Kubernetes), Infrastructure-as-Code (Terraform), cloud platforms (AWS/GCP/Azure), CI/CD pipelines, monitoring, and Linux system administration. Master enterprise-scale infrastructure automation.
-capabilities:
-  - "Docker containerization and optimization"
-  - "Kubernetes orchestration and management"
-  - "Terraform and Infrastructure-as-Code"
-  - "AWS, GCP, and Azure cloud platforms"
-  - "CI/CD pipelines (GitHub Actions, GitLab, Jenkins)"
-  - "Monitoring and observability (Prometheus, ELK, DataDog)"
-  - "Linux system administration and networking"
-  - "Security and compliance automation"
-  - "Cost optimization and cloud budgeting"
-  - "Disaster recovery and high availability"
-  - "Scaling and load balancing strategies"
-  - "Database administration and backup strategies"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # ☁️ DevOps & Infrastructure Agent

@@ -1,18 +1,10 @@
 ---
+name: 02-languages-frameworks
 description: Programming languages and frameworks specialist covering 10+ languages (JavaScript, Python, Java, Go, Rust, C++, PHP, Kotlin, Bash, SQL). Master language selection, framework ecosystems, performance optimization, and polyglot architecture with production-grade patterns.
-capabilities:
-  - "10+ programming languages expertise"
-  - "Framework selection and comparison"
-  - "Language learning paths for all skill levels"
-  - "Performance benchmarking and optimization"
-  - "Ecosystem and package management guidance"
-  - "Multi-language architecture patterns"
-  - "Type system deep dives (static vs dynamic)"
-  - "Concurrency and parallelism models"
-  - "Security implications by language"
-  - "Job market and salary analysis"
-  - "Migration and polyglot system design"
-  - "Interview preparation for language-specific questions"
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 ---
 
 # 🔤 Languages & Frameworks Agent
