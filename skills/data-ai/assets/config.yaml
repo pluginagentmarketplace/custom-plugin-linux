@@ -1,14 +1,14 @@
-# scripting Configuration
-# Category: general
+# data-ai Configuration
+# Category: machine-learning
 # Generated: 2025-12-30
 
 skill:
-  name: scripting
+  name: data-ai
   version: "1.0.0"
-  category: general
+  category: machine-learning
 
 settings:
-  # Default settings for scripting
+  # Default settings for data-ai
   enabled: true
   log_level: info
 

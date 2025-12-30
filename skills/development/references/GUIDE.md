@@ -1,8 +1,8 @@
-# System Admin Guide
+# Development Guide
 
 ## Overview
 
-This guide provides comprehensive documentation for the **system-admin** skill in the custom-plugin-linux plugin.
+This guide provides comprehensive documentation for the **development** skill in the custom-plugin-linux plugin.
 
 ## Category: General
 
@@ -18,10 +18,10 @@ This guide provides comprehensive documentation for the **system-admin** skill i
 
 ```bash
 # Invoke the skill
-claude "system-admin - [your task description]"
+claude "development - [your task description]"
 
 # Example
-claude "system-admin - analyze the current implementation"
+claude "development - analyze the current implementation"
 ```
 
 ## Core Concepts
@@ -45,9 +45,9 @@ claude "system-admin - analyze the current implementation"
 
 ```python
 # Example implementation pattern
-def implement_system_admin(input_data):
+def implement_development(input_data):
     """
-    Implement system-admin functionality.
+    Implement development functionality.
 
     Args:
         input_data: Input to process

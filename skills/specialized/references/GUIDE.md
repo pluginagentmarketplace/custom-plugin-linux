@@ -1,16 +1,16 @@
-# System Admin Guide
+# Specialized Guide
 
 ## Overview
 
-This guide provides comprehensive documentation for the **system-admin** skill in the custom-plugin-linux plugin.
+This guide provides comprehensive documentation for the **specialized** skill in the custom-plugin-linux plugin.
 
-## Category: General
+## Category: Devops
 
 ## Quick Start
 
 ### Prerequisites
 
-- Familiarity with general concepts
+- Familiarity with devops concepts
 - Development environment set up
 - Plugin installed and configured
 
@@ -18,10 +18,10 @@ This guide provides comprehensive documentation for the **system-admin** skill i
 
 ```bash
 # Invoke the skill
-claude "system-admin - [your task description]"
+claude "specialized - [your task description]"
 
 # Example
-claude "system-admin - analyze the current implementation"
+claude "specialized - analyze the current implementation"
 ```
 
 ## Core Concepts
@@ -45,9 +45,9 @@ claude "system-admin - analyze the current implementation"
 
 ```python
 # Example implementation pattern
-def implement_system_admin(input_data):
+def implement_specialized(input_data):
     """
-    Implement system-admin functionality.
+    Implement specialized functionality.
 
     Args:
         input_data: Input to process

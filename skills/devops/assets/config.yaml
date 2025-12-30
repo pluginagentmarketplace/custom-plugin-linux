@@ -1,14 +1,14 @@
-# scripting Configuration
+# devops Configuration
 # Category: general
 # Generated: 2025-12-30
 
 skill:
-  name: scripting
+  name: devops
   version: "1.0.0"
   category: general
 
 settings:
-  # Default settings for scripting
+  # Default settings for devops
   enabled: true
   log_level: info
 

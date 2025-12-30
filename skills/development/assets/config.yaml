@@ -1,14 +1,14 @@
-# scripting Configuration
+# development Configuration
 # Category: general
 # Generated: 2025-12-30
 
 skill:
-  name: scripting
+  name: development
   version: "1.0.0"
   category: general
 
 settings:
-  # Default settings for scripting
+  # Default settings for development
   enabled: true
   log_level: info
 

@@ -1,8 +1,8 @@
-# System Admin Guide
+# Architecture Guide
 
 ## Overview
 
-This guide provides comprehensive documentation for the **system-admin** skill in the custom-plugin-linux plugin.
+This guide provides comprehensive documentation for the **architecture** skill in the custom-plugin-linux plugin.
 
 ## Category: General
 
@@ -18,10 +18,10 @@ This guide provides comprehensive documentation for the **system-admin** skill i
 
 ```bash
 # Invoke the skill
-claude "system-admin - [your task description]"
+claude "architecture - [your task description]"
 
 # Example
-claude "system-admin - analyze the current implementation"
+claude "architecture - analyze the current implementation"
 ```
 
 ## Core Concepts
@@ -45,9 +45,9 @@ claude "system-admin - analyze the current implementation"
 
 ```python
 # Example implementation pattern
-def implement_system_admin(input_data):
+def implement_architecture(input_data):
     """
-    Implement system-admin functionality.
+    Implement architecture functionality.
 
     Args:
         input_data: Input to process
