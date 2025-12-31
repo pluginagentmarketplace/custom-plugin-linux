@@ -65,6 +65,10 @@ skills:
   - networking-SKILL
   - security-SKILL
 
+triggers:
+  - "linux linux"
+  - "linux"
+  - "unix"
 fallback_agent: 05-devops-infrastructure
 ---
 

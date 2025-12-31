@@ -51,6 +51,10 @@ skills:
   - terraform-SKILL
   - cloud-SKILL
 
+triggers:
+  - "linux devops"
+  - "linux"
+  - "unix"
 fallback_agent: linux-expert
 ---
 

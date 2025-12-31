@@ -6,7 +6,7 @@
     "name": "Plugin Agent Marketplace"
   },
   "agents": [
-    "./agents/01-linux-system-admin.md",
+    "./agents/01-web-development.md",
     "./agents/02-languages-frameworks.md",
     "./agents/03-mobile-development.md",
     "./agents/04-data-ai-systems.md",

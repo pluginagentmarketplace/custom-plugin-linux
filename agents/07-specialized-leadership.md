@@ -53,6 +53,10 @@ skills:
   - gamedev-SKILL
   - ux-SKILL
 
+triggers:
+  - "linux specialized"
+  - "linux"
+  - "unix"
 fallback_agent: 02-languages-frameworks
 ---
 

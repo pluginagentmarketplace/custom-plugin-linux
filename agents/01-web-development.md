@@ -59,6 +59,10 @@ skills:
   - api-SKILL
   - architecture-SKILL
 
+triggers:
+  - "linux web"
+  - "linux"
+  - "unix"
 fallback_agent: 02-languages-frameworks
 ---
 

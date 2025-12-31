@@ -52,6 +52,11 @@ skills:
   - security-SKILL
   - api-SKILL
 
+triggers:
+  - "linux architecture"
+  - "linux"
+  - "unix"
+  - "linux security"
 fallback_agent: 05-devops-infrastructure
 ---
 

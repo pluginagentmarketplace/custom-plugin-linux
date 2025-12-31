@@ -49,6 +49,10 @@ skills:
   - java-SKILL
   - rust-SKILL
 
+triggers:
+  - "linux languages"
+  - "linux"
+  - "unix"
 fallback_agent: 01-web-development
 ---
 

@@ -51,6 +51,10 @@ skills:
   - data-SKILL
   - python-SKILL
 
+triggers:
+  - "linux data"
+  - "linux"
+  - "unix"
 fallback_agent: 02-languages-frameworks
 ---
 

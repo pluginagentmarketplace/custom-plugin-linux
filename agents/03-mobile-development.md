@@ -49,6 +49,10 @@ skills:
   - frontend-SKILL
   - api-SKILL
 
+triggers:
+  - "linux mobile"
+  - "linux"
+  - "unix"
 fallback_agent: 01-web-development
 ---
 
